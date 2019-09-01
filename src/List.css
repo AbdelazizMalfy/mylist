@@ -1,0 +1,15 @@
+.list {
+    margin: 4rem auto;
+    padding: 2rem 3rem 3rem;
+    max-width: 500px;
+    background: #ff6666;
+    color:#fff;
+
+    
+
+}
+
+.list ol {
+    margin-top: 2.6 rem;
+    list-style: none;
+}
